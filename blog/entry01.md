@@ -1,4 +1,5 @@
 <h1>Entry 1</h1>
+##### 10/15/24
 <h2>Marketing and Advertisement</h2>
 <main>Hello, my name is Maria Camacho. I am a student who is apart of the three year Software Engineering Program at the Highschool of Telecomunications Art and Technology. Throughout my first year of this program I will be learning the HTML language and learning how to properly use the code taught in this class. By learning HTML, I will be able to create my own website for my year-long project. The topic I choose to focus my project on is Marketing and Advertisement. This topic willed its way towards me because it facinates me that we see maketing strageties and advertisments everyday and are influenced by it whether we realize it or not. Marketing strageties target things like...
 <li>Age
