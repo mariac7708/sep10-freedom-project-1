@@ -1,8 +1,14 @@
 # Entry 3
-##### X/X/XX
+##### 12/18/24
 
-Text
+### The Future of Marketing and Advertisement
+In the "Part B" section of working through the Freedom project we are working to create original and uninvented inventions. I have brainstormed and used my creativity to create an idea of a new invention that is yet to exist in our current time. As I brainstormed, I thought about how I can combine different ideas to create a branch of something new. I thought about how I see people stand in front of stores, giving out pamphlets and enticing people on the street to take a look inside their store. Spreading the word about their products, deals and services. I thought about how people giving out these pamphlets have to stand out in bad weather such as rainstorms, strong winds and snowstorms and created the idea to allow these people to do it efficiently and easily. I had came up with the Insta-Pamphlet, a digital pamphlet that can sent to anyone who accepts it. With my idea I came up with different rules and concepts of how the Insta-Pamphlet will work.
 
+### How I Researched This Idea
+As I thought about how it will work and if it would be efficient I took a look at the article <img src= "https://www.ceotodaymagazine.com/2022/07/pros-and-cons-of-pamphlet-advertisement-in-2022/#:~:text=different%20online%20platforms.-,Conclusion,to%20ensure%20a%20positive%20result" alt="CEO Today"> and read about the pros and cons of pamphlets. One pro that stood out to me was that they are not an inconvienience. Since they are so small and can be carried around easily, it makes them something someone is more likely to hold on to. This leaves out the problem that they are too big or too much to carry around. Another pro is that its generally cheap tpo make. Companies and buisnesses will be able to invest their money in these pamphlets to get word around about their work. When over viewing the cons of pamphlets, I came across that pamphlet advertising is limited to how many people it can reach. It is also said that it can be time consuming. Working on the design, printing and distributing are all things that you have to work through to get to your final product. As I looked at these benefits and drawbacks of pamphlets, I decided that combining them with technology would be an astonishing idea. I continued to think through how these pamphlets will work and the different aspects of them.
+
+### My Specefics
+As I presented my idea in the 10th grade SEP slack chanel, I got feed back on what I should add to imporve my idea. One of  my classmates Anna had told me to have an option to limit the amount of notificatons one can recieve. I decided to limit each store to only send out one pamphlet as a notification to the targets cellular device wether they choose to open it or not. I also decided that the pamhplets should have a default setting of a ten feet radius from where the sender is standing from. I decided these are rthe best circumstances to work from because I know as someone who frequently goes to the city to shop it is very stressful to keep up with the speed of the city and being handed a pamphlet after pamphlet can be aggitating. These rules will be set in place to keep the target audience happy.
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
